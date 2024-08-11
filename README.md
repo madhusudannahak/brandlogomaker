@@ -1,6 +1,6 @@
 # Brandmark Website
 
-![Homepage Preview](path/to/your/homepage-image.png)
+![Homepage Preview](path/image/homepage-image.png)
 
 ## Overview
 
@@ -26,7 +26,7 @@ The site is fully responsive and functional, ensuring a seamless experience acro
 
 ## Portfolio
 
-For more of my projects, visit [my portfolio](https://madhusudan-portfolio.com).
+For more of my projects, visit [my portfolio](https://brandlogomaker.netlify.app/).
 
 ## Setup and Installation
 
