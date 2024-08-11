@@ -1,4 +1,4 @@
-# Brandmark Website
+# Brandmaker Website
 
 ![Homepage Preview](images/homepage-image.png)
 
