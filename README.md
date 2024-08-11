@@ -22,7 +22,6 @@ The site is fully responsive and functional, ensuring a seamless experience acro
 - JavaScript
 - Bootstrap 4
 - SVGs
-- [OpenWeather API](https://brandlogomaker.netlify.app/)
 
 ## Portfolio
 
