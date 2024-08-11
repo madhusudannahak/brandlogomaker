@@ -1,6 +1,6 @@
 # Brandmark Website
 
-![Homepage Preview](image/homepage-image.png)
+![Homepage Preview](images/homepage-image.png)
 
 ## Overview
 
